@@ -8,3 +8,4 @@ This R program facilitates seamless interaction with the Evolutionary Scale Mode
 - Separate directory creation for PDB and FASTA files.
 - Error handling for invalid ESM IDs.
 - Project??
+- lapply instead of for loop?
