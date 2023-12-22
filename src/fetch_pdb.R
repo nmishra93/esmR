@@ -1,6 +1,3 @@
-# load libraries
-library(httr)
-
 # Function to make API request, save response, and print message
 fetchAndSave <- function(id, file_extension, counter, total_files, rank, prefix = "esm") {
     # Define base URLs for PDB and FASTA requests
